@@ -54,18 +54,3 @@ Click the **⚙️ Settings** icon in the navigation bar at any time to customiz
 - **Themes**: Switch between *Purple & Burgundy (Signature)*, *Midnight & Gold*, *Rose Gold & Blush*, and *Velvet Ruby & Noir*.
 - **Music**: Enjoy synthesized romantic piano lullabies (Web Audio API) or upload your own favorite song (`.mp3`).
 
----
-
-## 🚀 Running the Project
-
-```bash
-# 1. Install dependencies (already installed)
-npm install
-
-# 2. Start the local development server
-npm run dev
-
-# 3. Build for production
-npm run build
-```
-
